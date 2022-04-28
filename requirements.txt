@@ -1,4 +1,4 @@
-future == 0.17.1
+future ~= 0.18.2
 aff4-snappy == 0.5.1
 rdflib>=6.1.1
 intervaltree == 2.1.0
